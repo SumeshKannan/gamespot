@@ -1,0 +1,14 @@
+com\gamespot\DAO\categorydao.class
+com\gamespot\daoimpl\userregdaoimpl.class
+com\gamespot\daoimpl\productdaoimpl.class
+com\gamespot\model\categorymodel.class
+com\gamespot\model\productmodel.class
+com\gamespot\daoimpl\categorydaoimpl.class
+com\gamespot\gamespotbackend\App.class
+com\gamespot\model\userreg.class
+com\gamespot\daoimpl\supplierdaoimpl.class
+com\gamespot\DAO\supplierdao.class
+com\gamespot\DAO\productdao.class
+com\gamespot\DAO\userregdao.class
+com\gamespot\Appconfig.class
+com\gamespot\model\suppliermodel.class
